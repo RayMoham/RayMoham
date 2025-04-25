@@ -1,36 +1,35 @@
 # 💫 About Me:
-👋 Hey! I'm Rayan — a Software Engineer & 🎓 Computer Engineering student at University of Waterloo. I build impactful, production-ready solutions at the crossroads of full-stack dev, AI/ML, and cloud infrastructure ☁️🤖.
+👋 Hey! I'm **Rayan** — a **Software Engineer** & 🎓 **Computer Engineering student at University of Waterloo**. I build impactful, production-ready solutions at the crossroads of **full-stack dev**, **AI/ML**, and **cloud infrastructure** ☁️🤖.
 
-⚙️ Tech Stack:
-Languages: Python 🐍, JavaScript ⚡, C++ 🚀, C# 🔧, Go 🌀, SQL 🗃️
+---
 
-Frameworks: React ⚛️, Vue 🌿, Node.js 🌐, .NET Core, FastAPI ⚡, Django
+**⚙️ Tech Stack:**
 
-Cloud & Tools: AWS ☁️, Azure 🌩️, Docker 🐳, K8s ⎈, Terraform, Redis 🔁
+**Languages:** Python 🐍, JavaScript ⚡, C++ 🚀, C# 🔧, Go 🌀, SQL 🗃️  
+**Frameworks:** React ⚛️, Vue 🌿, Node.js 🌐, .NET Core, FastAPI ⚡, Django  
+**Cloud & DevOps:** AWS ☁️, Azure 🌩️, Docker 🐳, K8s ⎈, Terraform, Redis 🔁  
+**AI/ML:** PyTorch 🔥, TensorFlow 🧠, OpenAI 🧩, Gemini 🌠, LangChain ⛓️
 
-AI/ML: PyTorch 🔥, TensorFlow 🧠, OpenAI 🧩, Gemini 🌠, LangChain ⛓️
+---
 
+**🚀 Current Work:**
 
-🚀 Current Work:
+🧠 **Innovating VR brain health** at **NeuroFlex**  
+🤖 **Building LLM-powered solutions** at **Radical AI**  
+💻 **Contributing to open-source** in **health & ed-tech**
 
-🧠 Innovating VR brain health at NeuroFlex
+---
 
-🤖 Building LLM solutions at Radical AI
+**🤝 Let’s Collaborate On:**
 
-💻 Contributing to open-source in health & ed-tech
+🌐 **Scalable web applications**  
+🧬 **AI/ML research & pipelines**  
+🔧 **DevOps & cloud automation**
 
+---
 
-🤝 Let’s Collaborate On:
-
-🌐 Scalable web apps
-
-🧬 AI/ML research & pipelines
-
-🔧 DevOps & cloud automation
-
-📬 Reach out: rk2moham@uwaterloo.ca
+**📬 Reach out:** rk2moham@uwaterloo.ca  
 Let’s create something awesome together! 🚀
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rayan-kaleem-mohammed-75a224243/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rk2moham@uwaterloo.ca) 
