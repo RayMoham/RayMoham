@@ -10,14 +10,18 @@ Cloud & Tools: AWS ☁️, Azure 🌩️, Docker 🐳, K8s ⎈, Terraform, Redis
 
 AI/ML: PyTorch 🔥, TensorFlow 🧠, OpenAI 🧩, Gemini 🌠, LangChain ⛓️
 
+
 🚀 Current Work:
+
 🧠 Innovating VR brain health at NeuroFlex
 
 🤖 Building LLM solutions at Radical AI
 
 💻 Contributing to open-source in health & ed-tech
 
+
 🤝 Let’s Collaborate On:
+
 🌐 Scalable web apps
 
 🧬 AI/ML research & pipelines
